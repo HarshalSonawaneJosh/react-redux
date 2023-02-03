@@ -1,0 +1,25 @@
+{
+  "details": [
+    {
+      "name": "Bhushan",
+      "email": "Bhshya@123",
+      "phone": "8586950674",
+      "country": "Afganistan",
+      "id": 8
+    },
+    {
+      "name": "ramesh",
+      "email": "ramesh@gmail.com",
+      "phone": "9897067890",
+      "country": "London",
+      "id": 9
+    },
+    {
+      "name": "sammer",
+      "email": "sameer@gmail.com",
+      "phone": "9897067890",
+      "country": "America",
+      "id": 10
+    }
+  ]
+}
